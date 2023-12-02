@@ -7,7 +7,6 @@ I am Min Khant. Fullstack Developer
 - 📫 How to reach me: minkhant88887@gmail.com
 - ⚡ Fun fact: You may think I am very shy and introvert before you don't know me.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007&show_icons=true&theme=transparent)
 
