@@ -9,5 +9,8 @@ I am Min Khant. Fullstack Developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007&show_icons=true&theme=transparent)
+
+
 
 <!--  👯 I’m looking to collaborate on ... -->
