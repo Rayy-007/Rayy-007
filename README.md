@@ -75,11 +75,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🔥 My Status: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rayy-007&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rayy-007&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
 
-![Min Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007&show_icons=true&&bg_color=DEG,#0B486B,#F56217,#3a7bd5)
+![Min Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayy-007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayy-007&layout=compact&theme=vision-friendly-dark&bg_color=30,2c3e50,512DA8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
