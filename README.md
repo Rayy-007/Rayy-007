@@ -1,8 +1,3 @@
-<style>
-  body {
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-  }
-</style>
 
 <div id="header" align="center">
   <!-- Top Gif -->
