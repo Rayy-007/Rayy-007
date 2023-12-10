@@ -3,6 +3,12 @@
   <!-- Top Gif -->
   <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="200"/>
 
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I am Min Khant.
+  </h1>
+
 <!-- Social -->
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/min-khant-0a0546232/">
@@ -19,11 +25,7 @@
 <!-- View Count -->
   <img align="center" src="https://komarev.com/ghpvc/?username=Rayy-007&style=flat-square&color=green" alt=""/>
 
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I am Min Khant.
-  </h1>
+
 </div>
 
 <!-- Banner Gif -->
