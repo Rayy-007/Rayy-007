@@ -2,6 +2,8 @@
 <div id="header" align="center">
   <!-- Top Gif -->
   <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="200"/>
+  <img width="1268" height="647" alt="image" src="https://github.com/user-attachments/assets/7191956e-e743-4883-976e-0a5643ebdefc" />
+
 
   <h1>
     Hey there
