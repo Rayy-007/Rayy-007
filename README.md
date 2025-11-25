@@ -55,7 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠️ Languages and Tools :
 | Fronend | Backend | UI/UX | Tools |
 | ------- | ------- | ----- | ----- |
-| [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css,sass,bootstrap,jquery&theme=dark)](https://skillicons.dev) | [![My Skills](https://skills.thijs.gg/icons?i=nextjs,spring,java,mysql,mongodb&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=figma,svg&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,postman,wordpress,git,github&theme=dark)](https://skills.thijs.gg)|
+| [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css,sass,bootstrap,jquery&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nextjs,spring,java,mysql,mongodb&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skillicons.dev/icons?i=figma,svg&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,wordpress,git,github&theme=dark)](https://skills.thijs.gg)|
 
 
 
