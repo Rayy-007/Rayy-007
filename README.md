@@ -41,11 +41,17 @@
 
 ### 👨‍💻 About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, UI/UX Designer from Myanmar.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, Software Engineer from Myanmar.
 
-
-- 🐱‍🏍 Currently pursuing a Pearson Level 5 Higher National Diploma in Computer Sciences at EduCLaaS Academy, Lithan University, I'm on a journey to transform ideas into digital experiences.
-- :telescope: I bring ideas to life through clean and user-friendly interfaces. 
+- 💻 Software Engineer with **2+ years of professional software development**
+- 🎓 Graduated with a **Bachelor of Arts (BA) in English** from Yadanabon University
+- 🎓 Completed a **Pearson UK Level 5 Higher National Diploma in Computer Science**
+- ⚛️ Enjoy building modern web applications with **React**, **Next.js**, JavaScript, TypeScript, and backend technologies
+- 🔧 Hands-on experience with **SugarCRM**, **WordPress/WooCommerce**, REST APIs, and business application development
+- 🌱 Always learning, exploring new technologies, and continuously improving my development skills
+- 🤖 Currently diving deeper into software engineering while exploring the exciting world of **AI** and intelligent applications
+- 🚀 Goal: Build software that solves real-world problems and creates meaningful impact
+- :telescope: I also like to bring ideas to life through clean and user-friendly interfaces. 
 <!--
 - :seedling: I’m currently learning Next.js, Tailwind, Typescript, Git and GitHub.
 -->
@@ -63,9 +69,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🔥 My Status: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rayy-007&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rayy-007&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rayy-007&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
 
 ![Min Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007&show=reviews,prs_merged&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayy-007&layout=compact&theme=vision-friendly-dark&bg_color=30,2c3e50,512DA8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayy-007&layout=compact&theme=vision-friendly-dark&bg_color=30,2c3e50,512DA8)](https://github.com/anuraghazra/github-readme-stats) -->
 
